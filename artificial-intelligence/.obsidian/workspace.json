@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "17134b15045c0293",
+        "id": "faadfa40e08c9d16",
         "type": "tabs",
         "children": [
           {
-            "id": "d0bc374adb974d28",
+            "id": "88a6ce62733b4232",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "wiki/sources/attention-is-all-you-need.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "attention-is-all-you-need"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "wiki/sources/attention-is-all-you-need.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for attention-is-all-you-need"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "wiki/sources/attention-is-all-you-need.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from attention-is-all-you-need"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "wiki/sources/attention-is-all-you-need.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of attention-is-all-you-need"
             }
           }
         ]
@@ -176,25 +183,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "d0bc374adb974d28",
+  "active": "88a6ce62733b4232",
   "lastOpenFiles": [
     "wiki/sources/ai-2027.md",
-    "Untitled.canvas",
-    "raw/AI 2027.md",
-    "raw/attention-is-all-you-need.md",
     "wiki/entities/openbrain.md",
-    "wiki/concepts/ai-rd-multiplier.md",
-    "wiki/concepts/ida.md",
-    "wiki/concepts/neuralese.md",
-    "wiki/entities/google-brain.md",
     "wiki/entities/noam-shazeer.md",
+    "wiki/entities/google-brain.md",
     "wiki/entities/ashish-vaswani.md",
+    "wiki/concepts/transformer.md",
+    "wiki/concepts/positional-encoding.md",
+    "wiki/concepts/neuralese.md",
+    "wiki/concepts/multi-head-attention.md",
+    "wiki/concepts/ida.md",
+    "wiki/concepts/attention-mechanism.md",
+    "wiki/concepts/ai-rd-multiplier.md",
+    "raw/AI 2027.md",
+    "Untitled.canvas",
+    "raw/attention-is-all-you-need.md",
     "wiki/entities",
     "Clippings",
-    "wiki/concepts/positional-encoding.md",
-    "wiki/concepts/multi-head-attention.md",
-    "wiki/concepts/attention-mechanism.md",
-    "wiki/concepts/transformer.md",
     "wiki/concepts",
     "wiki/sources/attention-is-all-you-need.md",
     "wiki/sources",
